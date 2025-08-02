@@ -7,7 +7,7 @@
   "scope": "/",
   "start_url": "/?install=true",
   "display": "standalone",
-  "theme_color": "#ff0000",
+  "theme_color": "#ff3d3d",
   "background_color": "#ffffff",
   "orientation": "portrait",
   "description": "DOTmy is a powerful search engine designed to deliver fast, relevant results across local and global content.",
